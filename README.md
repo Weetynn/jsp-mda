@@ -6,4 +6,6 @@ The dataset used in this study comes from the "faraway" package in R, comprising
 
 This study specifically focuses n Year 2 students, as this year represents a key transition in the UK education system, marked by the Standardised Assessment Tests (SATs) in Key Stage 1. The objective is to explore how English comprehension impacts Math performance, using multilevel models to evaluate both individual and school-level effects.
 
-## 
+## 📋 Key Areas Addressed
+
+
