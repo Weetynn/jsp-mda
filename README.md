@@ -24,11 +24,11 @@ This study specifically focuses n Year 2 students, as this year represents a key
 
 #### 🔶 Hierarchical Linear Model (HLM)
 
-![Screenshot 2024-10-22 180020](https://github.com/user-attachments/assets/cd98a0fc-44f9-495c-8e3d-bf41e04c1094)
+![Screenshot 2024-10-25 182530](https://github.com/user-attachments/assets/24bab8d9-e164-42d7-817b-b4acc8415876)
 
-![Screenshot 2024-10-22 180052](https://github.com/user-attachments/assets/841c678e-b61b-495a-bd74-db5bc4840e20)
+![Screenshot 2024-10-25 182354](https://github.com/user-attachments/assets/e7d6f321-065e-4eb5-ba9d-b98b63bb3822)
 
-![Screenshot 2024-10-22 180059](https://github.com/user-attachments/assets/ec7fac37-7d24-4792-98a1-49ac5cca8ba0)
+![Screenshot 2024-10-25 182435](https://github.com/user-attachments/assets/38c283e5-b52c-41b9-a75d-99f337a947e2)
 
     Both random intercept and random slope models are discussed to capture the relationships between English and Math scores at individual and school levels.
 
@@ -36,7 +36,8 @@ This study specifically focuses n Year 2 students, as this year represents a key
 
     ▪️ Total Regression Model 
 
-![Screenshot 2024-10-22 180340](https://github.com/user-attachments/assets/14610059-79e7-4e37-9de7-dbe1e4c7e6f0)
+![Screenshot 2024-10-25 182118](https://github.com/user-attachments/assets/555fc3f7-d115-4432-a668-b30a521c212e)
+
 
     ▪️ Regression Between Group Means 
 
